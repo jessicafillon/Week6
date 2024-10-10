@@ -1,0 +1,9 @@
+# 1. File Display
+
+with open('numbers.txt', 'r') as numbers_file:
+    numbers_content = numbers_file.read()
+
+print(numbers_content)
+
+
+# 2.
